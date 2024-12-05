@@ -1,9 +1,9 @@
 const cacheName = "samtech-Eğitimde Dijital Dönüşüm-1.0";
 const contentToCache = [
-    "Build/neww.loader.js",
-    "Build/neww.framework.js",
-    "Build/neww.data",
-    "Build/neww.wasm",
+    "Build/dsgs.loader.js",
+    "Build/dsgs.framework.js",
+    "Build/dsgs.data",
+    "Build/dsgs.wasm",
     "TemplateData/style.css"
 
 ];
